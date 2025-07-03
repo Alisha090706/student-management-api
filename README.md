@@ -102,5 +102,5 @@ Let me know if you'd like to add:
 * API request/response examples
 
   ---
-##🐱 Author
+## 🐱 Author
 **Alisha Kapoor**
